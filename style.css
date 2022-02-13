@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: rgb(232, 255, 127);
+    text-align: center;
+}
+
+header{
+    overflow: hidden;
+    margin: auto;
+    max-height: 100px;
+    font-size: 25px;
+    position: sticky;
+    top: 0;
+}
+
+.logo{
+    float: left;
+    height: 100px;
+    padding-left: 106px;
+}
+
+.menu{
+    margin: 0;
+    padding: 0;
+    float: left;
+    padding-left: 500px;
+    margin-top: 25px;
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 15px;
+    padding: 15px;
+}
+
+main{
+    background-image: url(/imagens/assistencia\ tec\ 2.jpg);
+    height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+section{
+    padding: 100px 100px;
+}
+.content{
+    background-color: #FFFFFFBB;
+    height: 500px;
+    width: 350px;
+    color: black;
+    float: right;
+}
+
+h2, h3, p{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.sobrenos{
+    padding-right: 35px;
+    padding-left: 35px;
+}
+
+h3{
+    padding-top: 50px;
+}
+
+.quemsomos{
+    height: 250px;
+    
+}
+
+.horariotrabalho{
+    height: 250px;
+    
+}
+
+footer{
+    background-color: rgb(232, 255, 127);
+    height: 100px;
+}
+
+h4{
+    text-align: center;
+    padding-top: 40px;
+}
