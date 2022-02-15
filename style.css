@@ -40,7 +40,7 @@ li{
 }
 
 main{
-    background-image: url(/imagens/assistencia\ tec\ 2.jpg);
+    background-image: url(./imagens/assistencia\ tec\ 2.jpg);
     height: 700px;
     background-size: cover;
     background-attachment: fixed;
@@ -50,6 +50,7 @@ main{
 section{
     padding: 100px 100px;
 }
+
 .content{
     background-color: #FFFFFFBB;
     height: 500px;
